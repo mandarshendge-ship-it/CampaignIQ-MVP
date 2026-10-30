@@ -194,6 +194,15 @@ export function AppContent() {
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" /> Live Telemetry Synced
             </span>
             <span className="text-slate-800">|</span>
+            <a
+              href="https://github.com/mandarshendge-ship-it/CampaignIQ-MVP"
+              target="_blank"
+              rel="noreferrer"
+              className="text-indigo-400 hover:text-indigo-300 hover:underline"
+            >
+              GitHub Repo ↗
+            </a>
+            <span className="text-slate-800">|</span>
             <button
               onClick={handleResetSeedData}
               className="text-slate-400 hover:text-white flex items-center gap-1 hover:underline cursor-pointer"
