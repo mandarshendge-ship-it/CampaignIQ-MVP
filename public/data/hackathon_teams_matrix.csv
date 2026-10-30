@@ -1,0 +1,51 @@
+Team Code,Team Name,Selected Challenge,Scenario Classification,Members Count,Team Leader,7-Step Steps Done,Workflow Progress %,Tasks Completed / Total,Planned Hours (Norm),Actual Hours Logged,Time Overrun (Hours),Schedule Health Status,Mentor Checkpoint Status,Demo Submitted,Demo Live URL,Demo Loom URL,Judge Weighted Score
+"G1","NeuralPulse AI","Task Management App","ON_TIME_TOP_TIER",7,"Chloe O'Connor",7/7,100%,"7/7",21,21.0,0.0,ON_TRACK,GREEN,YES,"https://g1-mvp.lovable.app","https://loom.com/share/g1-demo",8.62
+"G2","Aegis Health","Pet Care Companion","OVERRUN_BUT_DELIVERED",7,"Mateo Zhang",7/7,100%,"7/7",21,23.5,2.5,ON_TRACK,GREEN,YES,"https://g2-mvp.lovable.app","https://loom.com/share/g2-demo",8.74
+"G3","FinPilot AI","Personal Finance Manager","ON_TIME_TOP_TIER",8,"Marcus Borges",7/7,100%,"7/7",21,21.0,0.0,ON_TRACK,GREEN,YES,"https://g3-mvp.lovable.app","https://loom.com/share/g3-demo",8.86
+"G4","SyncScript Studio","AI Interior Makeover","OVERRUN_BUT_DELIVERED",7,"Mei Dubois",7/7,100%,"7/7",21,23.5,2.5,ON_TRACK,GREEN,YES,"https://g4-mvp.lovable.app","https://loom.com/share/g4-demo",8.98
+"G5","TaskFlow Dynamic","Campaign Planner","ON_TIME_TOP_TIER",7,"Ingrid Mendez",7/7,100%,"7/7",21,21.0,0.0,ON_TRACK,GREEN,YES,"https://g5-mvp.lovable.app","https://loom.com/share/g5-demo",9.10
+"G6","RoomVision 3D","Collaborative Notetaker","OVERRUN_BUT_DELIVERED",8,"Arjun Santos",7/7,100%,"7/7",21,23.5,2.5,ON_TRACK,GREEN,YES,"https://g6-mvp.lovable.app","https://loom.com/share/g6-demo",9.22
+"G7","CoachIQ Accelerator","Resume-to-Interview Coach","CRITICAL_PATH_BLOCKER",7,"Farah Rostova",3/7,43%,"3/7",21,11.0,0.0,BEHIND,RED,NO,"","",N/A
+"G8","PawPal Health","Personal Health Manager","OVERRUN_BUT_DELIVERED",7,"Liam Müller",7/7,100%,"7/7",21,23.5,2.5,ON_TRACK,GREEN,YES,"https://g8-mvp.lovable.app","https://loom.com/share/g8-demo",9.46
+"G9","CampaignArchitect","Task Management App","MID_FLIGHT_ON_TRACK",8,"Yuki Ivanov",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G10","Vitalis Biosense","Pet Care Companion","MID_FLIGHT_ON_TRACK",7,"Hannah Nakamura",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G11","LedgerSense AI","Personal Finance Manager","MID_FLIGHT_ON_TRACK",7,"Zoe Sato",6/7,86%,"6/7",21,19.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G12","Omnia Note","AI Interior Makeover","MID_FLIGHT_ON_TRACK",8,"Lucas Tanaka",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G13","Velocity Sprint","Campaign Planner","MID_FLIGHT_ON_TRACK",7,"Dev Chen",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G14","DecorMorph AI","Collaborative Notetaker","CRITICAL_PATH_BLOCKER",7,"Kenji Al-Mansoor",4/7,57%,"4/7",21,15.5,1.5,BEHIND,RED,NO,"","",N/A
+"G15","CareerAscent Pro","Resume-to-Interview Coach","MID_FLIGHT_ON_TRACK",8,"Fatima Rossi",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G16","VetAssist Companion","Personal Health Manager","MID_FLIGHT_ON_TRACK",7,"Olga Krishnan",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G17","MarketPulse 360","Task Management App","MID_FLIGHT_ON_TRACK",7,"Tariq Morales",6/7,86%,"6/7",21,19.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G18","ChronoCare Health","Pet Care Companion","MID_FLIGHT_ON_TRACK",8,"Dmitri Yusuf",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G19","PocketCFO AI","Personal Finance Manager","MID_FLIGHT_ON_TRACK",7,"Zara Diallo",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G20","MeetingSynth Canvas","AI Interior Makeover","MID_FLIGHT_ON_TRACK",7,"Ben Kowalski",6/7,86%,"6/7",21,19.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G21","BacklogOptimizer","Campaign Planner","CRITICAL_PATH_BLOCKER",8,"Sophia Takahashi",2/7,29%,"2/7",21,8.0,0.0,BEHIND,RED,NO,"","",N/A
+"G22","SpatialCraft 3D","Collaborative Notetaker","MID_FLIGHT_ON_TRACK",7,"Aisha Al-Zahra",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G23","MockInterviewer","Resume-to-Interview Coach","MID_FLIGHT_ON_TRACK",7,"Gabriel Lindholm",6/7,86%,"6/7",21,19.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G24","CanineHealth AI","Personal Health Manager","MID_FLIGHT_ON_TRACK",8,"Kaito Patel",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G25","ContentRocket Agent","Task Management App","MID_FLIGHT_ON_TRACK",7,"Priya O'Connor",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G26","CardioPredict AI","Pet Care Companion","PACING_LAG_BEHIND",7,"Elena Zhang",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G27","SmartSpend Co-pilot","Personal Finance Manager","PACING_LAG_BEHIND",8,"Amina Borges",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G28","TranscriptMaster","AI Interior Makeover","PACING_LAG_BEHIND",7,"Carlos Dubois",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G29","SprintPulse Kanban","Campaign Planner","PACING_LAG_BEHIND",7,"Ravi Mendez",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G30","ArchiScan Interior","Collaborative Notetaker","PACING_LAG_BEHIND",8,"Siddharth Santos",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G31","JobMatch Pro","Resume-to-Interview Coach","PACING_LAG_BEHIND",7,"Nour Rostova",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G32","PetGuardian Wellness","Personal Health Manager","PACING_LAG_BEHIND",7,"Aiko Müller",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G33","FunnelMaster AI","Task Management App","PACING_LAG_BEHIND",8,"Chloe Ivanov",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G34","NutriTrack Assistant","Pet Care Companion","PACING_LAG_BEHIND",7,"Mateo Nakamura",2/7,29%,"2/7",21,7.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G35","BudgetForge AI","Personal Finance Manager","CRITICAL_PATH_BLOCKER",7,"Marcus Sato",4/7,57%,"4/7",21,15.5,1.5,BEHIND,RED,NO,"","",N/A
+"G36","CollabCanvas","AI Interior Makeover","MID_FLIGHT_ON_TRACK",8,"Mei Tanaka",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G37","AgileMind Squad","Campaign Planner","MID_FLIGHT_ON_TRACK",7,"Ingrid Chen",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G38","LivingSpace 3D","Collaborative Notetaker","MID_FLIGHT_ON_TRACK",7,"Arjun Al-Mansoor",6/7,86%,"6/7",21,19.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G39","HiringEdge Coach","Resume-to-Interview Coach","HERO_IN_FLIGHT",8,"Farah Rossi",4/7,57%,"4/7",21,15.0,1.5,ON_TRACK,GREEN,NO,"","",N/A
+"G40","TailWag Health","Personal Health Manager","MID_FLIGHT_ON_TRACK",7,"Liam Krishnan",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G41","GrowthEngine 360","Task Management App","MID_FLIGHT_ON_TRACK",7,"Yuki Morales",6/7,86%,"6/7",21,19.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G42","MindWell AI","Pet Care Companion","MID_FLIGHT_ON_TRACK",8,"Hannah Yusuf",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G43","FiscalFlow AI","Personal Finance Manager","MID_FLIGHT_ON_TRACK",7,"Zoe Diallo",5/7,71%,"5/7",21,16.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G44","SummaryBot Canvas","Unselected (Under Deliberation)","UNSELECTED_DIRECTION",7,"Lucas Kowalski",1/7,14%,"1/7",21,4.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G45","JiraCoPilot Agent","Campaign Planner","MID_FLIGHT_ON_TRACK",8,"Dev Takahashi",4/7,57%,"4/7",21,13.5,0.0,ON_TRACK,GREEN,NO,"","",N/A
+"G46","InteriorVisionary","Collaborative Notetaker","EARLY_STAGE_IDEATION",7,"Kenji Al-Zahra",1/7,14%,"1/7",21,4.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G47","InterviewAce AI","Resume-to-Interview Coach","EARLY_STAGE_IDEATION",7,"Fatima Lindholm",1/7,14%,"1/7",21,4.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G48","PurrfectCare AI","Unselected (Under Deliberation)","UNSELECTED_DIRECTION",8,"Olga Patel",1/7,14%,"1/7",21,4.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G49","Omnichannel LaunchPad","Task Management App","EARLY_STAGE_IDEATION",7,"Tariq O'Connor",1/7,14%,"1/7",21,4.5,0.0,BEHIND,AMBER,NO,"","",N/A
+"G50","Apex AI Innovators","Pet Care Companion","EARLY_STAGE_IDEATION",7,"Dmitri Zhang",1/7,14%,"1/7",21,4.5,0.0,BEHIND,AMBER,NO,"","",N/A
